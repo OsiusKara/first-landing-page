@@ -1,5 +1,3 @@
-# Odin Landing Page
-
 This is my code for first NON-responsive Landing Page project in The Odin Project Foundations course.
 
 ## Project Details
@@ -8,9 +6,9 @@ The Odin Project provided a [webpage design](https://cdn.statically.io/gh/TheOdi
 
 ## Skills Learned
 
--       Becoming more comfortable with CSS Flexbox, especially justify- content and align-item rules
--       Getting more grasp of relative units (em,rem,%…)
--       Researching and finding project related assets like Icons, colors, gradients typefaces and different generators,  such as box-shadows
--       Continuing to practice Git and Github project management
--       Taking someone else's design and using HTML/CSS to make it happen
--       Working on a project over multiple days and focusing on certain sections only
+- Becoming more comfortable with CSS Flexbox, especially justify- content and align-item rules
+- Getting more grasp of relative units (em,rem,%…)
+- Researching and finding project related assets like Icons, colors, gradients typefaces and different generators, such as box-shadows
+- Continuing to practice Git and Github project management
+- Taking someone else's design and using HTML/CSS to make it happen
+- Working on a project over multiple days and focusing on certain sections only

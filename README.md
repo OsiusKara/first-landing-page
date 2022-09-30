@@ -12,3 +12,7 @@ The Odin Project provided a [webpage design](https://cdn.statically.io/gh/TheOdi
 - Continuing to practice Git and Github project management
 - Taking someone else's design and using HTML/CSS to make it happen
 - Working on a project over multiple days and focusing on certain sections only
+
+## Screenshot
+
+![FAQ Cards](screenshot.png)

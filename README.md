@@ -15,4 +15,4 @@ The Odin Project provided a [webpage design](https://cdn.statically.io/gh/TheOdi
 
 ## Screenshot
 
-![FAQ Cards](screenshot.png)
+![FAQ Cards](screenshot1.png)
